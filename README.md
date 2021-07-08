@@ -20,6 +20,9 @@ Netflix clone based on Digital Innovation One bootcamp.
   <img src="./imagens/gifGit.gif"></img>
 </p>
 
+## Visit live website
+
+https://nerdflix-bt1l01aaj-tiagomotta7.vercel.app/
 
 ## 👨‍💻 Author
 
