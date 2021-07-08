@@ -16,6 +16,10 @@ Netflix clone based on Digital Innovation One bootcamp.
 <p>
   <img src="./imagens/Screenshot_2.png"></img>
 </p>
+<p>
+  <img src="./imagens/gifGit.gif"></img>
+</p>
+
 
 ## 👨‍💻 Author
 
