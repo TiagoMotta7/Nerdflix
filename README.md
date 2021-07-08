@@ -29,4 +29,5 @@ Netflix clone based on Digital Innovation One bootcamp.
 
 Made by Tiago Motta
 
+Contact me:
 [![LinkedIn Badge](https://img.shields.io/badge/-Tiago_Motta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagomotta7/)](https://www.linkedin.com/in/tiagomotta7/)
