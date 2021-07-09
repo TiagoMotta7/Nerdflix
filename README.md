@@ -22,7 +22,7 @@ Netflix clone based on Digital Innovation One bootcamp.
 
 ## Visit live website
 
-https://nerdflix-bt1l01aaj-tiagomotta7.vercel.app/
+https://nerdflix-ten.vercel.app/
 
 ## 👨‍💻 Author
 
