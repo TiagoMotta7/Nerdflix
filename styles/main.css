@@ -23,11 +23,10 @@ body{
 
 /*--== Header ==--*/
 
-.background-image{
+#background-image{
   width: 100%;
   margin: auto;
-  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)100%), url('../assets/images/tvd3.jpg');
-  
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,1)100%), url('../assets/images/capas/tvd3.jpg') ;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -67,6 +66,11 @@ main{
   color: white;
 }
 
+main .container{
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
 .main-movie{
   width: 100%;
   font-size: 16px;
@@ -80,7 +84,6 @@ main{
 }
 
 main .title{
-  margin-top: 30%;
   font-size: 40px;
 }
 
@@ -105,7 +108,7 @@ main .description{
 
 
 .button{  
-  background-color: rgba(0,0,0,0.6);
+  background-color: rgba(90, 90, 90, 0.6);
   color: white;
   font-weight: 600;
   font-family: 'Roboto', sans-serif;
@@ -126,17 +129,25 @@ main .description{
 }
 
 /*--== Carousel ==--*/
+
+.carousel-title{
+  color: white;
+  margin-bottom: 20px;
+}
 .carousel-series{
-  margin-top: 10px;
+  margin: auto;
+  width: 95%;
 }
 
 .box-movie{
-  height: 100%;
+  height: 200px;
   width: 100%;
   border-radius: 5px;
   display: block;
+  transition: 0.4s;
 }
 
 .box-movie:hover{
+  opacity:0.5;
   cursor: pointer;
 }
