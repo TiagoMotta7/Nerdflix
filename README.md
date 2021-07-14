@@ -10,7 +10,7 @@ Netflix clone based on Digital Innovation One bootcamp. Still in development
 
 ## 💻 Screenshots
 
-<p>
+<!--<p>
   <img src="./imagens/Screenshot_1.png"></img>
 </p>
 <p>
@@ -18,7 +18,7 @@ Netflix clone based on Digital Innovation One bootcamp. Still in development
 </p>
 <p>
   <img src="./imagens/gifGit.gif"></img>
-</p>
+</p>-->
 
 ## Visit live website
 
