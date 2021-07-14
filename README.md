@@ -1,6 +1,6 @@
 # NerdFlix
 
-Netflix clone based on Digital Innovation One bootcamp.
+Netflix clone based on Digital Innovation One bootcamp. Still in development
 
 ## 🧰 Techs
 - HTML
